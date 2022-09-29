@@ -37,7 +37,7 @@ collections:
   Amazon Originals 2021-2025:
     smart_label: originally_available.desc
     sync_mode: sync
-    sort_title: +++++++++++++++++++++_1APPLE
+    sort_title: +++++++++++++++++++++_1AMAZON
     imdb_list:
       url:   https://www.imdb.com/search/title/?title_type=feature,tv_movie,tv_series,tv_special,tv_miniseries,documentary,video,tv_short&release_date=2021-01-01,2025-12-31&genres=!animation&countries=us&languages=en&sort=release_date,desc&count=250&companies=co0319272
     summary: All Amazon Originals From 2021-2025
